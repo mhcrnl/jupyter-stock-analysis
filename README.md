@@ -1,4 +1,4 @@
-# Jupyter Stock Analysis Script
+# Jupyter Notebook Stock Analysis Script
 
 This is a jupyter notebook for indepth stock analysis.
 
